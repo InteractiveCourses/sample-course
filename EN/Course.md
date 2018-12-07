@@ -1,5 +1,5 @@
 # Title
-Sample Test Introduction to Programming with **C#**
+Sample Test Introduction
 
 # Description
 This course teaches the **basics of coding**, such as:
